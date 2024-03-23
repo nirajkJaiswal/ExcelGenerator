@@ -80,7 +80,7 @@ namespace ExcelGenerator
                 MyNewSheet.Cells[1, 4] = "Plant";
                 MyNewSheet.Cells[1, 5] = "Stock_Doccat";
                 MyNewSheet.Cells[1, 6] = "WBS";
-                MyNewSheet.Cells[1, 7] = "Storage Type";
+                MyNewSheet.Cells[1, 7] = "Storage type";
                 MyNewSheet.Cells[1, 8] = "Source Bin";
                 MyNewSheet.Cells[1, 9] = "Quantity";
                 MyNewSheet.Cells[1, 10] = "Unit";
@@ -97,7 +97,7 @@ namespace ExcelGenerator
                 MyNewSheet.Cells[2, 8] = "B1221";
                 MyNewSheet.Cells[2, 9] = "1";
                 MyNewSheet.Cells[2, 10] = "EA";
-                MyNewSheet.Cells[2, 11] = "04_PALERMO";
+                MyNewSheet.Cells[2, 11] = "04_PALERMO_B";
                 MyNewSheet.Cells[2, 12] ="'" +serial;
 
 
